@@ -5,4 +5,4 @@ Modified by F3
 
 modified by F1
 modified by F2. Modified by F3-02
-cr-22sept15-01 change
+cr-22sept15-01 change (bugfix added this direct in dev-stable)
